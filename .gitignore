@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+server.log
+.vscode/
+api.py
+main.py
